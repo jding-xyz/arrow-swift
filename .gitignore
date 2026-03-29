@@ -35,3 +35,7 @@ xcuserdata/
 # Release
 /apache-arrow-swift-*.tar.gz*
 /dev/release/.env
+
+# Generated test data
+Tests/ArrowTests/*.arrow
+data-generator/swift-datagen/*.arrow
